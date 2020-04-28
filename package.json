@@ -1,0 +1,25 @@
+{
+  "name": "paperjs-simplest",
+  "version": "1.0.0",
+  "description": "Demonstrate a simple way of using Paper.js.",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasensi/paperjs-simplest.git"
+  },
+  "keywords": [],
+  "author": "Samuel ASENSI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasensi/paperjs-simplest/issues"
+  },
+  "homepage": "https://github.com/sasensi/paperjs-simplest#readme",
+  "dependencies": {
+    "paper": "^0.12.4"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
